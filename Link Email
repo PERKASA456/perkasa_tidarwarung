@@ -1,0 +1,23 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Blank template</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <h1>Link Email PERKASA</h1>
+        
+        <!-- Load external JavaScript -->
+    <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWsttFdMWNNWNplmJcvQTJPwwmCGJNZZwDRrqzcZZqPjGTglQpjBrsqNPBFHjMZZkBnsSCCFV" target="_blank">kirim email</a>
+        
+    </body>
+
+</html>
